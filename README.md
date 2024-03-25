@@ -1,6 +1,6 @@
 # DSARE
 
-Source code for our paper: "Empowering Few-Shot Relation Extraction with The Integration of Traditional RE Methods and Large Language Models" at DASFAA2024.
+Source code for our paper: "Empowering Few-Shot Relation Extraction with The Integration of Traditional RE Methods and Large Language Models" [1] at DASFAA2024.
 
 The codes are partically learned from [2,3].
 
